@@ -37,18 +37,18 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](Week0/Task0/Images/yoosys.jpg)
+![Alt Text](Images/yoosys.jpg)
 
 #### <ins>**Iverilog**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](Week0/Task0/Images/iverilog.jpg)
+![Alt Text](Images/iverilog.jpg)
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](Week0/Task0/Images/gtkwave.jpg)
+![Alt Text](Images/gtkwave.jpg)
